@@ -14,7 +14,7 @@ L'auto-refresh permet de charger automatiquement les nouveaux messages que des m
 
 ## Étape 1
 
-Ajoutez l'extension [TamperMonkey](https://tampermonkey.com/) à votre navigateur. Cette extension permet d'exécuter des scripts Javascript personnalisés.
+Ajoutez l'extension [TamperMonkey](https://tampermonkey.net/) à votre navigateur. Cette extension permet d'exécuter des scripts Javascript personnalisés.
 
 | Navigateur | Extension |
 | ---------- | ---- |
